@@ -7,7 +7,7 @@
 [![Vite](https://img.shields.io/badge/Vite-8.3-purple?logo=vite&logoColor=white)](https://vitejs.dev/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-v4-06B6D4?logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
 [![Build](https://img.shields.io/badge/Build-Passing-emerald)](https://github.com/)
-[![License](https://img.shields.io/badge/License-To_be_determined-gray)](LICENSE)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 ---
 
@@ -248,7 +248,7 @@ Ensure your workstation has the following installed:
 
 1. Clone the project repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/amn2905/MobileSecX.git
    cd MobileSecX
    ```
 
@@ -499,12 +499,12 @@ Contributions to MobileSecX are welcome! Please review [CONTRIBUTING.md](CONTRIB
 
 ## License
 
-License: To be determined.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
 ## Author & Maintainers
 
-- **Author**: [Your Name]
-- **Repository**: [Repository URL]
-- **Contact / Issues**: [Email / LinkedIn / Issues Link]
+- **Author**: Mohd Amaan Hamid ([@amn2905](https://github.com/amn2905))
+- **Repository**: [https://github.com/amn2905/MobileSecX](https://github.com/amn2905/MobileSecX)
+- **Contact / Inquiries**: [amn057207@gmail.com](mailto:amn057207@gmail.com)
